@@ -46,5 +46,5 @@ A tiny macOS utility that mirrors an external monitor in a resizable window.
 -----------------------------------------------------------------------
 
 ## License
-**Apache-2.0**  
+**CC BY-NC-ND 4.0**  
 © 2025 Uli Kaufmann
